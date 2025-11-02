@@ -63,7 +63,4 @@ Saat program dijalankan:
 
 Klik thumbnail di bawah untuk menonton demo program:  
 
-[![Demo Program](https://img.youtube.com/vi/poD1yNoYeKA/0.jpg)](https://youtu.be/poD1yNoYeKA)
-
-
-
+[![Demo Program](https://img.youtube.com/vi/kIGGk9aoUig/0.jpg)](https://youtu.be/kIGGk9aoUig)
