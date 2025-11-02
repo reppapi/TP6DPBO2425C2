@@ -2,10 +2,7 @@
 
 ## Janji
 Saya **Repa Pitriani (NIM 2402499)** mengerjakan Tugas Praktikum 6 pada Mata Kuliah **Desain dan Pemrograman Berorientasi Objek (DPBO)** untuk keberkahan-Nya.  
-Maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan.  
-_Aamiin._
-
----
+Maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ## Desain
 
@@ -24,7 +21,6 @@ Kelas yang mengatur seluruh **logika permainan**, meliputi:
 - sistem skor,  
 - deteksi tabrakan,  
 - serta transisi antar-state: **menu → bermain → game over**.  
-
 Kelas ini juga menangani input dari **keyboard** (`spasi`, `R`, `ESC`) dan **mouse** (klik tombol **Play** atau **Exit**).
 
 ### 3. `View`
@@ -35,7 +31,6 @@ Kelas ini menggambar:
 - pipa,  
 - skor,  
 - serta tampilan menu dan game over.  
-
 Selain itu, posisi teks dan tombol diatur agar selalu berada di tengah layar.
 
 ### 4. `Player`
@@ -47,8 +42,6 @@ Player dapat melompat saat tombol spasi ditekan, dan posisinya diperbarui setiap
 Mewakili **pipa** yang menjadi rintangan di permainan.  
 Menyimpan posisi, ukuran, gambar, dan arah pergerakan pipa.  
 Kelas ini juga menandai apakah pipa sudah dilewati player agar skor dapat bertambah.
-
----
 
 ## Penjelasan
 
@@ -65,8 +58,6 @@ Saat program dijalankan:
 5. Saat game over:
    - Tekan **R** untuk mengulang permainan.  
    - Tekan **ESC** untuk kembali ke menu utama.
-
----
 
 ## Dokumentasi
 
