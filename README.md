@@ -1,14 +1,13 @@
 # TP6DPBO2425C2
 
 ## Janji
-Saya **Repa Pitriani (NIM 2402499)** mengerjakan Tugas Praktikum 6 pada Mata Kuliah **Desain dan Pemrograman Berorientasi Objek (DPBO)** untuk keberkahan-Nya.  
+Saya Repa Pitriani NIM 2402499 mengerjakan Tugas Praktikum 6 pada Mata Kuliah Desain dan Pemrograman Berorientasi Objek (DPBO) untuk keberkahan-Nya.  
 Maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ## Desain
 
 Program ini merupakan implementasi game **Flappy Bird** menggunakan **Java Swing** dengan konsep **pemrograman berorientasi objek (OOP)**.  
 Program mencakup **5 class utama**, yaitu `App`, `Logic`, `View`, `Player`, dan `Pipe`.
-
 Berikut penjelasan singkat dari masing-masing class:
 
 ### 1. `App`
@@ -20,7 +19,8 @@ Kelas yang mengatur seluruh **logika permainan**, meliputi:
 - pergerakan burung dan pipa,  
 - sistem skor,  
 - deteksi tabrakan,  
-- serta transisi antar-state: **menu → bermain → game over**.  
+- serta transisi antar-state: **menu → bermain → game over**.
+  
 Kelas ini juga menangani input dari **keyboard** (`spasi`, `R`, `ESC`) dan **mouse** (klik tombol **Play** atau **Exit**).
 
 ### 3. `View`
@@ -30,7 +30,8 @@ Kelas ini menggambar:
 - burung (player),  
 - pipa,  
 - skor,  
-- serta tampilan menu dan game over.  
+- serta tampilan menu dan game over.
+
 Selain itu, posisi teks dan tombol diatur agar selalu berada di tengah layar.
 
 ### 4. `Player`
