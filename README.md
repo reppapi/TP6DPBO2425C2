@@ -1,7 +1,7 @@
 # TP6DPBO2425C2
 
 ## Janji
-Saya Repa Pitriani dengan NIM 2402499 mengerjakan Tugas Praktikum 5 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya, maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+Saya Repa Pitriani dengan NIM 2402499 mengerjakan Tugas Praktikum 6 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya, maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ## Desain
 
